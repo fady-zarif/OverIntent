@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MqttOverIntent.iml" filepath="$PROJECT_DIR$/.idea/modules/MqttOverIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MqttOverIntentLib/MqttOverIntent.MqttOverIntentLib.iml" filepath="$PROJECT_DIR$/.idea/modules/MqttOverIntentLib/MqttOverIntent.MqttOverIntentLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MqttOverIntent.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MqttOverIntent.app.iml" />
+    </modules>
+  </component>
+</project>

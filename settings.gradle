@@ -1,0 +1,3 @@
+include ':MqttOverIntentLib'
+include ':app'
+rootProject.name = "MqttOverIntent"
