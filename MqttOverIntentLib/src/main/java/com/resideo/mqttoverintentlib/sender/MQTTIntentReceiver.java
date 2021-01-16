@@ -20,6 +20,7 @@ public class MQTTIntentReceiver implements IMQTTIntentReceiver {
     private IMQTTReceiver mReceiver;
     private Context mContext;
     private String mAction;
+    private String action2;
 
     public MQTTIntentReceiver(Context context, String action, IMQTTReceiver callBack) {
         mContext = context;
